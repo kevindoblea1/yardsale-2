@@ -19,7 +19,6 @@ body {
   display: none;
 }
 
-
 /* Navbar (general) */
 nav {
   display: flex;
@@ -386,6 +385,7 @@ aside {
   margin-top: 0;
   margin-bottom: 4px;
 }
+
 
 .product-card .product-info div p:nth-child(2) {
   font-size: var(--sm);
