@@ -2,7 +2,7 @@
 ---
 This project was made during the JavaScript Practical Course from Platzi
 
-🌐 A similar implementation is available here: [: [YardSale](https://canti21.github.io/yardsale/)
+🌐 A similar implementation is available here: [: [YardSale](https://kevindoblea1.github.io/yardsale-2/)
 
 ### Objective 🎯
 
